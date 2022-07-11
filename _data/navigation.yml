@@ -1,19 +1,9 @@
 # main links
 main:
-  # - title: "Archive"
-  #   url: /year-archive/ 
   - title: "category"
     url: /categories/ 
   - title: "tag"
     url: /tags/
-
-# main2:  
-# - title: "category"
-#   url: /categories/ 
-#   children:
-#     - title: "CS"
-#     - url: /  /
-
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
