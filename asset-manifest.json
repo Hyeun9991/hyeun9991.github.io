@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d742a453.css",
-    "main.js": "/static/js/main.bafeed46.js",
+    "main.js": "/static/js/main.521ed609.js",
     "static/media/NewYork.otf": "/static/media/NewYork.86e747d8b10ce7e39527.otf",
     "static/media/portfolio_cover.png": "/static/media/portfolio_cover.0897cbc6ea83c0222d86.png",
     "static/media/aboutpage.png": "/static/media/aboutpage.56dac63783454d47d171.png",
@@ -11,10 +11,10 @@
     "static/media/projectspage.png": "/static/media/projectspage.46bf66354cb20920913e.png",
     "index.html": "/index.html",
     "main.d742a453.css.map": "/static/css/main.d742a453.css.map",
-    "main.bafeed46.js.map": "/static/js/main.bafeed46.js.map"
+    "main.521ed609.js.map": "/static/js/main.521ed609.js.map"
   },
   "entrypoints": [
     "static/css/main.d742a453.css",
-    "static/js/main.bafeed46.js"
+    "static/js/main.521ed609.js"
   ]
 }
